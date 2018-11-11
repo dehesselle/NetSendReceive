@@ -1,5 +1,6 @@
 # Network Send & Receive Example
 This application was built as a learning exercise to get to know the Qt-way of creating TCP client/server applications. It is closely modelled around the [Fortune Server Example](https://doc.qt.io/qt-5.6/qtnetwork-fortuneserver-example.html)/[Fortune Client Example](http://doc.qt.io/qt-5.6/qtnetwork-fortuneclient-example.html) in regards to [QTcpServer](http://doc.qt.io/qt-5.6/qtcpserver.html) and [QTcpSocket](http://doc.qt.io/qt-5.6/qtcpserver.html) usage from the Qt 5.6 documentation, differing as follows:
+
 | Network Send & Receive Example | Fortune Client/Server Example |
 | --- | --- |
 | client and server stay connected, allowing them to transfer multiple messages | server closes connection after sending message to client |
