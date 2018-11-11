@@ -9,7 +9,7 @@ This application was built as a learning exercise to get to know the Qt-way of c
 ## What does it do?
 This example application creates two clients and one server, all shown in the same dialog. Clients can send messages that appear in the server's list. The server can send messages that appear in both clients' lists.
 
-(screenshot here)
+![alt-txt](screenshot.png)
 
 ## Using the source
 This code was developed using Qt Creator 4.7.2 with Qt 5.6.2 for MSVC2015. You should be able to open the project file in Qt Creator, configure the project to your Qt kit and that's all.
