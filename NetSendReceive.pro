@@ -2,6 +2,8 @@
 #
 # Project created by QtCreator 2018-11-04T13:45:07
 #
+# https://github.com/dehesselle/NetSendReceive
+#
 #-------------------------------------------------
 
 QT       += core gui network

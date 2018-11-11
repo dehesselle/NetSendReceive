@@ -1,3 +1,6 @@
+/* https://github.com/dehesselle/NetSendReceive
+ */
+
 #ifndef TCPCLIENT_H
 #define TCPCLIENT_H
 

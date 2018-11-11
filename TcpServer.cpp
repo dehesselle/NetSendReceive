@@ -1,3 +1,6 @@
+/* https://github.com/dehesselle/NetSendReceive
+ */
+
 #include "TcpServer.h"
 #include <QByteArray>
 #include <QDataStream>

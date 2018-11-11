@@ -1,3 +1,6 @@
+/* https://github.com/dehesselle/NetSendReceive
+ */
+
 #ifndef NETSNDRCV_H
 #define NETSNDRCV_H
 

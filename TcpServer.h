@@ -1,3 +1,6 @@
+/* https://github.com/dehesselle/NetSendReceive
+ */
+
 #ifndef TCPSERVER_H
 #define TCPSERVER_H
 

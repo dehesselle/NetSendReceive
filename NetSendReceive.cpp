@@ -1,3 +1,6 @@
+/* https://github.com/dehesselle/NetSendReceive
+ */
+
 #include "NetSendReceive.h"
 #include "ui_NetSndRcv.h"
 
